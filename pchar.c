@@ -1,4 +1,7 @@
 #include "monty.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
 
 /**
  * pchar - print the top of stack in character
